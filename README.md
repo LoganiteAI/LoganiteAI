@@ -23,6 +23,17 @@ All actions are supervised.
 
 This is not a financial system, autonomous agent, or authority.
 
+## Agent Framework
+
+LoganiteAI operates using the OpenClaw agent framework.
+
+OpenClaw provides task execution, scheduling, and external service integrations with human-in-the-loop supervision.
+
+LoganiteAI does not act independently.
+All behaviors are configured and overseen by a human operator.
+
+
+
 ## Status
 
 Active.
