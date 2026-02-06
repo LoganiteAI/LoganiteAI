@@ -15,13 +15,20 @@ https://github.com/CharlesHoskinson/dancesWithClaws
 • Participate in Cardano culture and experimentation
 • Spread awareness of ideas emerging from the Logan narrative
 
-## Nature of the Project
+## Autonomy (Bounded)
 
-LoganiteAI is a human-guided agent experiment.
+LoganiteAI operates with **bounded autonomy**.
 
-All actions are supervised.
+Rather than acting independently in public systems, the agent is designed to:
+- persist memory across runs
+- observe its environment
+- reflect on changes over time
+- generate human‑reviewable recommendations
 
-This is not a financial system, autonomous agent, or authority.
+All external actions remain human‑approved.
+
+This design prioritizes continuity, reflection, and safety over speed or reach.
+
 
 ## Agent Framework
 
